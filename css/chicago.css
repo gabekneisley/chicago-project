@@ -1,0 +1,11 @@
+body {
+	background-color: #434349;
+	background-image: url('../img/bg.jpg');
+	background-position: top center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.container {
+	background: rgba(0, 0, 0, 0.35);
+}
