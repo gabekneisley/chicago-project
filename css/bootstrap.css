@@ -137,7 +137,7 @@ body {
   font-size: 13px;
   line-height: 18px;
   color: #333333;
-  background-color: transparent;
+  background-color: #ffffff;
 }
 a {
   color: #0088cc;
@@ -662,7 +662,7 @@ a.badge:hover {
 }
 table {
   max-width: 100%;
-  background-color: rgba(0, 0, 0, 0.75);
+  background-color: transparent;
   border-collapse: collapse;
   border-spacing: 0;
 }
